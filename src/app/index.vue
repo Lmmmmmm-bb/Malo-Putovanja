@@ -1,3 +1,4 @@
 <template>
-  <div>Hello World</div>
+  <div class="text-3xl font-bold underline">Hello World</div>
+  <router-view />
 </template>

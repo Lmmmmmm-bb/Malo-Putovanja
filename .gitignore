@@ -22,3 +22,6 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# CSS Module Type Declare
+**/*.scss.d.ts
