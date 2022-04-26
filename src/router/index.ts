@@ -1,9 +1,17 @@
-import { createRouter, createWebHistory } from 'vue-router';
+import {
+  createRouter,
+  createWebHistory,
+  createWebHashHistory
+} from 'vue-router';
 import { routes } from './routes';
 
-const history = createWebHistory();
+const history = import.meta.env.DEV
+  ? createWebHistory()
+  : createWebHashHistory('/Malo-Putovanja/');
 
-export const router = createRouter({
+const router = createRouter({
   history,
   routes
 });
+
+export default router;
