@@ -18,6 +18,7 @@
     "style:watch": "./node_modules/.bin/typed-scss-modules src --watch --ignore \"**/styles/*.scss\""
   },
   "dependencies": {
+    "pinia": "^2.0.13",
     "vue": "^3.2.25",
     "vue-router": "4"
   },
