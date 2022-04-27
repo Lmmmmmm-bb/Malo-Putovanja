@@ -1,5 +1,5 @@
 import { RouteRecordRaw } from 'vue-router';
-import { RouteNameEnum } from '@/common/models';
+import { RouteNameEnum } from '@/router';
 import { dailyRoutes } from './daily';
 import { groupRoutes } from './group';
 import { profileRoutes } from './profile';
