@@ -1,5 +1,5 @@
 import { RouteRecordRaw } from 'vue-router';
-import { RouteNameEnum } from '@/common/models';
+import { RouteNameEnum } from '../type';
 
 export const studyRoutes: RouteRecordRaw = {
   path: '/study',

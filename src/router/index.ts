@@ -14,4 +14,5 @@ const router = createRouter({
   routes
 });
 
+export * from './type';
 export default router;

@@ -1,4 +1,4 @@
-import { RouteNameEnum } from '@/common/models';
+import { RouteNameEnum } from '@/router';
 import { MenuOption } from 'naive-ui';
 
 export const menuOptions: MenuOption[] = [

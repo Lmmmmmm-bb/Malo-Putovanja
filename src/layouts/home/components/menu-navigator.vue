@@ -1,7 +1,7 @@
 <script setup lang="ts">
 import { NMenu } from 'naive-ui';
 import { useRouter } from 'vue-router';
-import { RouteNameEnum } from '@/common/models';
+import { RouteNameEnum } from '@/router';
 import { menuOptions } from '../config';
 
 const router = useRouter();
