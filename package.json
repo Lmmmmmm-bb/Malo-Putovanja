@@ -19,7 +19,7 @@
     }
   ],
   "scripts": {
-    "dev": "vite & npm run style:watch",
+    "dev": "vite --host & npm run style:watch",
     "build": "vue-tsc --noEmit && vite build",
     "preview": "vite preview",
     "prepare": "husky install",
