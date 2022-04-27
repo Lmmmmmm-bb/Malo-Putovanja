@@ -5,7 +5,7 @@
 </p>
 <p align="center">
 <a href="https://github.com/Lmmmmmm-bb/Malo-Putovanja/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/Lmmmmmm-bb/Malo-Putovanja"></a>
-<a href="https://github.com/Lmmmmmm-bb/Malo-Putovanja"><img alt="GitHub license" src="https://img.shields.io/github/license/Lmmmmmm-bb/Malo-Putovanja"></a>
+<a href="https://github.com/Lmmmmmm-bb/Malo-Putovanja/blob/main/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/Lmmmmmm-bb/Malo-Putovanja"></a>
 <a href="http://commitizen.github.io/cz-cli/"><img alt="Commitizen friendly" src="https://img.shields.io/badge/commitizen-friendly-brightgreen.svg"></a>
 <a href="https://github.com/Lmmmmmm-bb/Malo-Putovanja/pulls"><img alt="GitHub PR" src="https://img.shields.io/badge/PR-Welcome-%2345A2FF"></a>
 <a href="mailto:lmmmmmm12138@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Google-%23d95040"></a>
@@ -18,7 +18,7 @@
 - Axios
 - ESLint + Prettier
 - Commit Lint + Husky
-- Element Plus + Tailwind CSS
+- Naive + Tailwind CSS
 - SCSS + SCSS-Typed-Modules
 - pnpm
 
