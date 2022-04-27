@@ -1,7 +1,7 @@
 ![Malo-Putovanja](https://socialify.git.ci/Lmmmmmm-bb/Malo-Putovanja/image?description=1&theme=Light)
 
 <p align="center">
-<a href="https://github.com/Lmmmmmm-bb/Octo-Exam/actions/workflows/codeql-analysis.yml"><img alt="Octo-Exam-Codeql-Action" src="https://github.com/Lmmmmmm-bb/Malo-Putovanja/actions/workflows/codeql-analysis.yml/badge.svg"></a>
+<a href="https://github.com/Lmmmmmm-bb/Malo-Putovanja/actions/workflows/codeql-analysis.yml"><img alt="Malo-Putovanja-Codeql-Action" src="https://github.com/Lmmmmmm-bb/Malo-Putovanja/actions/workflows/codeql-analysis.yml/badge.svg"></a>
 </p>
 <p align="center">
 <a href="https://github.com/Lmmmmmm-bb/Malo-Putovanja/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/Lmmmmmm-bb/Malo-Putovanja"></a>
