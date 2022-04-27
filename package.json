@@ -7,6 +7,17 @@
     "type": "git",
     "url": "git+https://github.com/Lmmmmmm-bb/Malo-Putovanja.git"
   },
+  "contributors": [
+    {
+      "name": "Lmmmmmm-bb",
+      "email": "lmmmmmm12138@gmail.com",
+      "url": "https://www.lmmmmmm.cn"
+    },
+    {
+      "name": "Icey-ff",
+      "email": "1939638013@qq.com"
+    }
+  ],
   "scripts": {
     "dev": "vite & npm run style:watch",
     "build": "vue-tsc --noEmit && vite build",
